@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/grey"
+    app:cardCornerRadius="4dp"
+    android:layout_margin="8dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="280dp"
+            android:id="@+id/idNewsImage"
+            android:scaleType="centerCrop"/>
+
+        <TextView
+            android:id="@+id/idNewsHeading"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/idNewsImage"
+            android:maxLines="2"
+            android:padding="3dp"
+            android:text="New Heading"
+            android:textColor="@color/yellow"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/idNewsSubContent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/idNewsHeading"
+            android:text="Maing News"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:maxLines="3"
+            android:padding="3dp"
+            android:textSize="16sp"
+            />
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
