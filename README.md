@@ -12,15 +12,14 @@ This is “amazing” Breaking News Application project. See the post images:
 ## Learn
 In this Applicaiton I learned
 
-No 1) How to Create deffrient Activity and Adding this all activities in one single screen
+No 1) In this Application I learn how to used Retrofit Library
 
-No 2) First time working with Adapters classes and understanding modeling the data
+No 2) First time working with APIs, I used News API and it's simple to use an API
 
-No 3) Adding offline database(SQLite) and crete database and tables
+No 3) Using Postman and create a new GET request  and also learn hoe to arrange API
 
-No 4) Create Read Update Delete (CRUD) working in SQLite through out DBHalper
+No 4) Overrall exprence was very good
 
-No 5) Overrall exprence was very good
 
 <br>
 
@@ -33,4 +32,4 @@ Some Images from this Appliction
 
 ## DOWNLOAD LINK FOR APK
 
-https://github.com/RayFisher-24/Food-Delivery-App/blob/master/FoodApp.apk
+https://github.com/RayFisher-24/Breaking-News-App/blob/master/Breaking%20News.apk
