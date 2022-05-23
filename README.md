@@ -1,6 +1,8 @@
 # Breaking-News-App
 Breaking news, interchangeably termed late-breaking news and also known as a special report or special coverage or news flash, is a current issue that broadcasters feel warrants the interruption of scheduled programming or current news in order to report its details.
 
+This Application Delivered World Top Breaking news to you download the Application though the down link and stay up-to-date
+
 
 This is “amazing” Breaking News Application project. See the post images: 
 
