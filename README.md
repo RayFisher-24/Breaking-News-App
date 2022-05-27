@@ -18,7 +18,7 @@ No 1) In this Application I learn how to used Retrofit Library
 
 No 2) First time working with APIs, I used News API and it's simple to use an API
 
-No 3) Using Postman and create a new GET request  and also learn hoe to arrange API
+No 3) Using Postman and create a new GET request  and also learn how to arrange API
 
 No 4) Overrall exprence was very good
 
